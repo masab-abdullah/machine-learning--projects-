@@ -1,0 +1,21 @@
+email,label
+"Congratulations! You won a free mobile phone",spam
+"Claim your free prize now",spam
+"You have won one million dollars",spam
+"Click here to get your free gift",spam
+"Urgent! Your account has won a reward",spam
+"Get cheap loans immediately",spam
+"You are selected for a cash prize",spam
+"Limited offer! Buy now and save money",spam
+"Winner! Contact us to receive your reward",spam
+"Free entry in our competition",spam
+"Meeting will start at 10 AM",ham
+"Please submit your assignment tomorrow",ham
+"Your class has been cancelled today",ham
+"Can we meet after lunch?",ham
+"Please send me the project files",ham
+"Your interview is scheduled for Monday",ham
+"Your order has been delivered",ham
+"Please attend the team meeting",ham
+"Happy birthday! Have a wonderful day",ham
+"Your electricity bill is attached",ham
